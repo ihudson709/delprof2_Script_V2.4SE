@@ -1,0 +1,18 @@
+Delete Student Profiles, Start-time,  7:46:24.28, Date, Fri 09/19/2014 
+ Delete Student Profiles, End-time,  7:46:27.50, Date, Fri 09/19/2014 
+Delete Student Profiles, Start-time,  7:47:53.67, Date, Fri 09/19/2014 
+ Delete Student Profiles, End-time,  7:47:54.94, Date, Fri 09/19/2014 
+Delete Student Profiles, Start-time,  7:48:47.03, Date, Fri 09/19/2014 
+ Delete Student Profiles, End-time,  7:48:48.38, Date, Fri 09/19/2014 
+Delete Student Profiles, Start-time,  7:49:34.64, Date, Fri 09/19/2014 
+ Delete Student Profiles, End-time,  7:49:34.91, Date, Fri 09/19/2014 
+Delete Student Profiles, Start-time,  8:00:26.35, Date, Thu 03/05/2015 
+ Delete Student Profiles, End-time,  8:00:26.73, Date, Thu 03/05/2015 
+Delete Student Profiles, Start-time,  8:00:59.51, Date, Wed 04/01/2015 
+ Delete Student Profiles, End-time,  8:18:51.79, Date, Wed 04/01/2015 
+Delete Student Profiles, Start-time,  8:34:41.56, Date, Wed 04/01/2015 
+ Delete Student Profiles, End-time,  8:34:42.34, Date, Wed 04/01/2015 
+Delete Student Profiles, Start-time,  8:36:35.74, Date, Wed 04/01/2015 
+ Delete Student Profiles, End-time,  8:36:36.12, Date, Wed 04/01/2015 
+Delete Student Profiles, Start-time, 10:27:22.28, Date, Tue 04/07/2015 
+ Delete Student Profiles, End-time, 10:33:16.47, Date, Tue 04/07/2015 
