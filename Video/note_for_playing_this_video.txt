@@ -1,0 +1,5 @@
+Note,
+
+This video shows the script in action. The script of course is only a shell that gives you a simple menu to run Delprof2.exe.
+
+This video may have problems playing in the Chrome Web browser (won't play at all). Please try playing it in Internet Explorer or another browser.
